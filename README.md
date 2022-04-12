@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Live site: <a href="https://62551473d11dd7062117881e--enchanting-pie-ad1232.netlify.app/#" target="_blank">here</a>
+
 ## Getting Started
 
 First, run the development server:
